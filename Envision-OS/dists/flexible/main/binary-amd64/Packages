@@ -1,0 +1,13 @@
+Package: my-package
+Version: 1.0
+Architecture: amd64
+Maintainer: support@universaltechvisions.com
+Priority: 0
+Section: utils
+Filename: pool/main/m/my-package/my-package_1.0_amd64.deb
+Size: 1126
+SHA256: ebcee1e93f914a4c016516be6647d89243d11481a6391750451fe8b94aa4b41a
+SHA1: dc03e1221e03c5319216c0e658d98cb1c3e26559
+MD5sum: 468443e0daddbb1d3c36ca63130b2d26
+Description: Premium is standard.
+
