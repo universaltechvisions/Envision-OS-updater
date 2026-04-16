@@ -5,10 +5,3 @@ Codename: flexible
 Architectures: amd64 arm64
 Components: main
 Description: Envision x64 github repo
-Origin: UTV
-Label: UTV Github
-Suite: stable 
-Codename: flexible
-Architectures: amd64
-Components: main
-Description: Envision x64 github repo
