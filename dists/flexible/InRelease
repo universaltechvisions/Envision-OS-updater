@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: UTV
 Label: UTV Github
 Suite: stable
@@ -27,3 +30,14 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
  99e71c1d2d42883ba5e7f178eeeded66b4bbed312d248f81e3cb62c5ba41a7e6 120 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwztELhaIrS6Xre4Uytp58tWwmPwFAmnhAWUACgkQytp58tWw
+mPwSwgf/VOGuGvA517YwrLWCDC/Z8Zp1Gm4ZGw/8Oyh+x2kPecb+Spu93AqsQPdn
+/FmThEvM9gqW9TgWK7pa9aeLaqooENWMHcW1/ujid9qNXMOLmMI8XDk6Ksxe82EW
+dO6vT5eMMTGb0vn7EPIJUTRqp/C7cp/tEf+g9g7q/76PiJdfpZWNubGxHF+IWqGP
+7jFLbA8kTH6S96cekbOTYwyMWVaXzRJwYgJ0jtpOGI61q8IazwCZdIaM+3oYlAMD
+8qXZOlS1pqMHMzmxerc1oBYazeMcYjOiz2sb8BL2Lni2MuInTJaSs7ywMX211EGK
+K456Eg0au7SicSCQ80muprDFforozQ==
+=OkKH
+-----END PGP SIGNATURE-----
