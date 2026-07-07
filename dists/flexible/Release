@@ -2,27 +2,27 @@ Origin: UTV
 Label: UTV Github
 Suite: stable
 Codename: flexible
-Date: Thu, 16 Apr 2026 15:33:46 UTC
+Date: Sun, 05 Jul 2026 15:12:58 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Envision x64 github repo
 MD5Sum:
- bd6b4235af7b3e7a97ffcbb76e8ccc1d 390 main/binary-amd64/Packages
- 6d4acee5a0362d70f7bce874d0cb6a5a 300 main/binary-amd64/Packages.gz
+ 7eba4cc22d355e463540aacbd3d2ee75 1442 main/binary-amd64/Packages
+ c0d434b6129b3d9910ecce327aca1e4b 722 main/binary-amd64/Packages.gz
  de48516a13a64d49acd7d190c066645e 120 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  946f53e50261492c825c9dcf86412f81 120 main/binary-arm64/Release
 SHA1:
- fdbb679d65a47dc5a80c0f4e2000b7a5a5d2f86c 390 main/binary-amd64/Packages
- 5ee859319c2b76690ef5d33878c593ed922b091b 300 main/binary-amd64/Packages.gz
+ 56415ce2b9a25c4abde257d0c6241604664dbbe5 1442 main/binary-amd64/Packages
+ 8dafb47c8d29703bf20449943bd93472ba64e6c5 722 main/binary-amd64/Packages.gz
  b73eee9d435ca0638006887bf5fce338d156327f 120 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  4d0aa4cff0ec026040c35120746be35c406c5058 120 main/binary-arm64/Release
 SHA256:
- 587aba533251226de33d544bddfc73f6642e07495f2078276ac0f0bd485b2254 390 main/binary-amd64/Packages
- 08bfe24691239cad7d601ec73e16eec809c4bb0fe582f44b5464a9951126683a 300 main/binary-amd64/Packages.gz
+ 24fd1b9222d1d35ea0dae7cfbeae691f44606be8fc2ba6daac6c51ba1e340435 1442 main/binary-amd64/Packages
+ 042bb9c581b073a00af90b7c750175f16484414cd9c97ce8d3b049ff5e12000d 722 main/binary-amd64/Packages.gz
  ad9fc9fd23f75b1fa8a007288bccd00f6311b5330cd2e95d60ba043d170a2696 120 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz

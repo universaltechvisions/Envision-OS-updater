@@ -1,3 +1,31 @@
+Package: envision-os-suite
+Version: 0.7
+Maintainer: Universal Tech Visions <support@universaltechvisions.com>
+Architecture: amd64
+Priority: 0
+Section: Accessories
+Filename: pool/main/e/envision-os-suite/envision-os-suite_0.7_amd64.deb
+Size: 925526
+SHA256: 8d20e4e88833a6d14c724a64678c88954b2d21ca7eadb36737598fcd663ea55d
+SHA1: 7004591f336822bf29615e1fbee09ca20b09ece0
+MD5sum: ff696a02d4d7014fb2d07f46568a4a02
+Description: This package contains the full suite of scripts, interfaces, and configuration files that makes  Envision-OS what it is.
+Depends: x11, apt, openbox, qt6-base-dev, qt5-base-dev, tint2, pcmanfm
+
+Package: menu
+Version: 0.9
+Maintainer: Universal Tech Visions <support@universaltechvisions.com>
+Architecture: amd64
+Priority: 0
+Section: Accessories
+Filename: pool/main/m/menu/menu_0.9_amd64.deb
+Size: 333094
+SHA256: cabe2edaa077c90335e0cf0c7cdb4be9ae7a03a6e6d44fa2d8a7f22f12057034
+SHA1: 8b7765cb895ca1a19a072c4423f5b4f9cd0e3cec
+MD5sum: cf0dc468f0269a39bde7c082a01b0fcf
+Description: Package to display the menu 
+Depends: openbox, tint2
+
 Package: my-package
 Version: 1.0
 Architecture: amd64
