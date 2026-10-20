@@ -12,6 +12,20 @@ MD5sum: ff696a02d4d7014fb2d07f46568a4a02
 Description: This package contains the full suite of scripts, interfaces, and configuration files that makes  Envision-OS what it is.
 Depends: x11, apt, openbox, qt6-base-dev, qt5-base-dev, tint2, pcmanfm
 
+Package: jumpmenu
+Version: 0.9.1
+Maintainer: Universal Tech Visions <support@universaltechvisions.com>
+Architecture: amd64
+Priority: 0
+Section: utils
+Filename: pool/main/j/jumpmenu/jumpmenu_0.9.1_amd64.deb
+Size: 333098
+SHA256: 2c0a1168a2ab12671fdd36aaafccb267e38d67ef1d92fddf040e384d5348189d
+SHA1: cb1dfe64f2e81f5a30c5c84b87210b13d8d203b9
+MD5sum: d5b5f5195c5ed8ba317af12b3bafb250
+Description: Package to display the menu 
+Depends: openbox, tint2
+
 Package: menu
 Version: 0.9
 Maintainer: Universal Tech Visions <support@universaltechvisions.com>
