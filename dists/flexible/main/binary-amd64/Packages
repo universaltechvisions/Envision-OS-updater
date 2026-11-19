@@ -1,3 +1,17 @@
+Package: envision-os
+Version: 0.9
+Maintainer: Universal Tech Visions <support@universaltechvisions.com>
+Architecture: amd64
+Priority: 0
+Section: utils
+Filename: pool/main/e/envision-os/envision-os_0.9_amd64.deb
+Size: 1734040
+SHA256: 687c48a994b64c9c1fd4cb75fbe69f9f3c96a22bd69c512b10f547c005aafe72
+SHA1: cf6f0d0a1d303eb0fd969c8813c051430c3bfe25
+MD5sum: 8ea8da297a18c7c3256a43001eb7ab5e
+Description: This package contains the full suite of scripts, interfaces, and configuration files that makes  Envision-OS what it is.
+Depends: openbox, qt6-base-dev, qt5-base-dev, tint2, pcmanfm, xinit
+
 Package: jumpmenu
 Version: 0.9.1
 Maintainer: Universal Tech Visions <support@universaltechvisions.com>

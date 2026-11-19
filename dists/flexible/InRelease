@@ -5,39 +5,39 @@ Origin: UTV
 Label: UTV Github
 Suite: stable
 Codename: flexible
-Date: Wed, 18 Nov 2026 18:37:47 UTC
+Date: Thu, 19 Nov 2026 14:53:24 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Envision x64 github repo
 MD5Sum:
- e14f862d55623768e3129edae667cb0e 1274 main/binary-amd64/Packages
- e0d0668f73d9d6b24941fe7632a21840 607 main/binary-amd64/Packages.gz
+ 2228f5ae1e53933c8474a3067772089c 1863 main/binary-amd64/Packages
+ a7546b86e93e78324eb49b808ea8efdd 832 main/binary-amd64/Packages.gz
  de48516a13a64d49acd7d190c066645e 120 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  946f53e50261492c825c9dcf86412f81 120 main/binary-arm64/Release
 SHA1:
- 0f9d3ed64ec341bb727670b951e99f171e5dff01 1274 main/binary-amd64/Packages
- 41291e3d9208086e67c0d6f22bd31064df841230 607 main/binary-amd64/Packages.gz
+ 6e1b64fc78ff915aaf5ec009000d260ee5a17e44 1863 main/binary-amd64/Packages
+ b00bea070bfca060d9b5363c65b752b267915e96 832 main/binary-amd64/Packages.gz
  b73eee9d435ca0638006887bf5fce338d156327f 120 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  4d0aa4cff0ec026040c35120746be35c406c5058 120 main/binary-arm64/Release
 SHA256:
- e95ad6db72bef882e8aed582d74352b8a1ade1bfcf35d54299979d065456c80b 1274 main/binary-amd64/Packages
- 0ffea89effbd26366386da93dfc357b912f6bc779e0c60c740dc3ed1585362b6 607 main/binary-amd64/Packages.gz
+ 5f5e238cfcd1273484d00d9000ca066e3b87800a9ca24767e24b04150231f884 1863 main/binary-amd64/Packages
+ fa4646ca5b57fc74aaa4d0f8176081c93f94eca7d97bb8f2dca05ba3b5c63db5 832 main/binary-amd64/Packages.gz
  ad9fc9fd23f75b1fa8a007288bccd00f6311b5330cd2e95d60ba043d170a2696 120 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
  99e71c1d2d42883ba5e7f178eeeded66b4bbed312d248f81e3cb62c5ba41a7e6 120 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEwztELhaIrS6Xre4Uytp58tWwmPwFAmr98IwACgkQytp58tWw
-mPxJ9Qf9G8Yqgil2M54n9VTt2NxPkDI9XJ+WUlX+iqr7RmdJZ7mnzsN4GzLQBt/T
-Jg9IZgEfkbzx1dTlcvXARbhIvi4/9IUD1xXh1tLn7ndyCEXWs4SocTIvE49ANis3
-kmmHRlT9hSg/zfLq0A2NiLixS6QVhweOw689S9ndDkldPedskCbzOTuizgoFfU4+
-n4fTmcKPNqFV3XGDAEaFMUfyHPHHbvBGVdkwu9yQDmSDUxiKDJNA9KVk0XO5YVPd
-2xCaStRDKTtd/chGCpcspRfTrZPyFUmBOVnKSWuKHfFWtxbUQuwdw7jr2MWwBBkR
-jCRRxrCC1N++pzk72afcUSrBt9gdzA==
-=SwPu
+iQEzBAEBCgAdFiEEwztELhaIrS6Xre4Uytp58tWwmPwFAmr/DXMACgkQytp58tWw
+mPysPQgArJvZ6PASi7l6LSJ6oetfQ39aRhjRSNcTfpvgj1fcDEGFLmKxOGGaOGB6
+r0XwkaksXTFwcf8OfERS/YqI0ivu5O2VM/ptUgXKdbsrY8YwjRdEKxDMLuIZ1SHG
+QBlZ24P+3uFLY16Rt0no5PeJfvhkhQKeLMUejXo3+fSQdVCs6nGooW6Gg284E+GD
+ynreXuorIV5jvaAegS2huJtl54VysjVQ0FpR0r+634scF5fvW/Owr8F+AUF9S0B2
+1acgXohu+nO4q839uxTIzx06KkWqH8WNSL8/15JmyXo2Xmkgtx9fZXhC6IrnnXGf
+Rn36JfXZ3HyXNWWZhZU53J1JDNFpVQ==
+=+Rfd
 -----END PGP SIGNATURE-----
