@@ -5,7 +5,7 @@ Origin: UTV
 Label: UTV Github
 Suite: stable
 Codename: flexible
-Date: Thu, 19 Nov 2026 14:53:24 UTC
+Date: Thu, 19 Nov 2026 15:00:34 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Envision x64 github repo
@@ -32,12 +32,12 @@ SHA256:
  99e71c1d2d42883ba5e7f178eeeded66b4bbed312d248f81e3cb62c5ba41a7e6 120 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEwztELhaIrS6Xre4Uytp58tWwmPwFAmr/DXMACgkQytp58tWw
-mPysPQgArJvZ6PASi7l6LSJ6oetfQ39aRhjRSNcTfpvgj1fcDEGFLmKxOGGaOGB6
-r0XwkaksXTFwcf8OfERS/YqI0ivu5O2VM/ptUgXKdbsrY8YwjRdEKxDMLuIZ1SHG
-QBlZ24P+3uFLY16Rt0no5PeJfvhkhQKeLMUejXo3+fSQdVCs6nGooW6Gg284E+GD
-ynreXuorIV5jvaAegS2huJtl54VysjVQ0FpR0r+634scF5fvW/Owr8F+AUF9S0B2
-1acgXohu+nO4q839uxTIzx06KkWqH8WNSL8/15JmyXo2Xmkgtx9fZXhC6IrnnXGf
-Rn36JfXZ3HyXNWWZhZU53J1JDNFpVQ==
-=+Rfd
+iQEzBAEBCgAdFiEEwztELhaIrS6Xre4Uytp58tWwmPwFAmr/DxIACgkQytp58tWw
+mPxNbQf/RkWKvXH1vGXw0ioKIqQpVyBOQ+RNjlyylEMVyn7l9DcOms49NYgAwa4/
+592v07ABem4MGLn0sob9Zt2Ji9pJlQEa5jWm3jX7C8KiAqiahlp80z7N2HiaNYd+
+cpq4A6efS4sEsUmhZC57zja0NPPOP7Xcb50NCb/3MOSs+/GrKCQKdEFLxZwE6KhO
+w7+rAhFFnSsbn1dTtCWhMhxYHZP1//MDYVI1GRbEJz2rH0kcnWeY0EgxRcimmjU5
+e7Ld73wi6SHnl+DqpDiDy5mgmYxyIQ3dqnJlsh4HPrfWKdgQibK8TCGZUtwkFFnm
+FRPbsMoT2JeCKnt0EMmAOVQkCaUrmA==
+=eqKX
 -----END PGP SIGNATURE-----
